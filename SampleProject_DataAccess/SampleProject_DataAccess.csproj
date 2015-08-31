@@ -59,7 +59,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="DataModel\Daily_Fleet_File_Details.cs">
       <DependentUpon>SampleProject_DataModel.tt</DependentUpon>
     </Compile>
