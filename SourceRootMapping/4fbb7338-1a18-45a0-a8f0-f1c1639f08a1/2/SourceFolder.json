@@ -1,0 +1,8 @@
+{ 
+    "system" : "build", 
+    "collectionId" = "4fbb7338-1a18-45a0-a8f0-f1c1639f08a1", 
+    "definitionId" = "2", 
+    "repositoryUrl" = "https://github.com/parvathymohan/azure.github.io.git", 
+    "sourceFolder" = "D:\SampleProject31082015\6e4db611",
+    "hashKey" = "6e4db611b623c44dbd3fccbf564b3c1bb47115b8"
+}
